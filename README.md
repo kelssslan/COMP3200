@@ -32,6 +32,14 @@ Yellow represents opened/exploring nodes**
 
 ![Screen Shot 2021-09-05 at 16 32 23](https://user-images.githubusercontent.com/66441548/132138467-55031c53-b69c-4cfc-b3fe-7826f34703f9.png)
 
-we can tweak the performance of the path searcher by **adding a parameter weight w.** Then multiply our heuristic results by w. The pictures above shows the differences when we add different weights to the path searcher. The pictures show that 8x heuristic opens slightly less nodes than 1.1x heuristic setting.
+We can tweak the performance of the path searcher by **adding a parameter weight w.** Then multiply our heuristic results by w. The pictures above shows the differences when we add different weights to the path searcher. The pictures show that 8x heuristic opens slightly less nodes than 1.1x heuristic setting.
 As we set the weight>1, then the path searcher favors going in the direction of the heuristic more and more
 If the weight is <1, then the path searcher trusts the heuristic less and less.
+
+
+
+![Alt Text]https://github.com/kelssslan/PathFinder/blob/main/BFS.gif)
+The GIF above shows how BFS explores the nodes. 
+
+![Alt Text]https://github.com/kelssslan/PathFinder/blob/main/DFS.gif)
+The GIF above shows how DFS explores the nodes. 
