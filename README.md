@@ -39,7 +39,7 @@ If the weight is <1, then the path searcher trusts the heuristic less and less.
 
 
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/BFS.gif)
-The GIF above shows how BFS explores the nodes. 
+                The GIF shows how BFS explores the nodes. 
 
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/DFS.gif)
-The GIF above shows how DFS explores the nodes. 
+               The GIF shows how DFS explores the nodes. 
