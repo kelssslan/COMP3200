@@ -19,14 +19,18 @@ The program must also pass random tests located at the left side.
 
 Students were also required to test the connectivity of the path, meaning the 3x3 grid could only move in the grids that were in pink.
 
-
-
-
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/%20StudentA.gif)
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/StudentA1.gif)
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/StudentA2.gif)
 
 
-The following GIFS shows my code finding the shortest path on different maps.
+The following GIFS above shows my code finding the shortest path on different maps.
 **Red represents closed/already explored nodes
 Yellow represents opened/exploring nodes**
+
+![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/WeightedA.gif)
+
+The GIF above shows that we can tweak the performance of the path searcher by **adding a parameter weight w.**
+Then multiply our heuristic results by w.
+As we set the weight>1, then the path searcher favors going in the direction of the heuristic more and more
+If the weight is <1, then the path searcher trusts the heuristic less and less.
