@@ -20,11 +20,13 @@ The program must also pass random tests located at the left side.
 Students were also required to test the connectivity of the path, meaning the 3x3 grid could only move in the grids that were in pink.
 
 
-The following GIFS shows my code finding the shortest path on different maps.
-**Red represents closed/already explored nodes
-Yellow represents opened/exploring nodes**
+
 
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/%20StudentA.gif)
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/StudentA1.gif)
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/StudentA2.gif)
 
+
+The following GIFS shows my code finding the shortest path on different maps.
+**Red represents closed/already explored nodes
+Yellow represents opened/exploring nodes**
