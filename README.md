@@ -24,9 +24,9 @@ Students were also required to test the connectivity of the path, meaning the 3x
 ![Alt Text](https://github.com/kelssslan/PathFinder/blob/main/StudentA2.gif)
 
 
-The following GIFS above shows my code finding the shortest path on different maps.
-**Red represents closed/already explored nodes
-Yellow represents opened/exploring nodes**
+The following GIFS above shows my code finding the shortest path on different maps.<br>
+**Red represents closed/already explored nodes** <br>
+**Yellow represents opened/exploring nodes**
 
 ![Screen Shot 2021-09-05 at 16 32 15](https://user-images.githubusercontent.com/66441548/132138462-837c41fa-e727-4cab-87de-7b48601317b9.png)
 
