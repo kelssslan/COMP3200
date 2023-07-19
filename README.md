@@ -1,6 +1,6 @@
 # Path Finder
 
-Algorithmic Techniques for Artificial Intelligence <br>
+<br>Algorithmic Techniques for Artificial Intelligence <br>
 Topics: BFS, DFS, Greedy algorithm, heuristic functions <br>
 Credits:  **Dr. David Churchill https://www.cs.mun.ca/~dchurchill/**
 
